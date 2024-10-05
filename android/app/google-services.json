@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434086836817",
+    "project_id": "vchat-6507b",
+    "storage_bucket": "vchat-6507b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434086836817:android:4ea31cd446d8d4c0041670",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUD_DkhLej5Ebo23nV_OeLihjY6i4B83k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434086836817:android:0827dcacbce4ee6f041670",
+        "android_client_info": {
+          "package_name": "com.example.vchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUD_DkhLej5Ebo23nV_OeLihjY6i4B83k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
